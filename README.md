@@ -53,13 +53,23 @@ Part 1 - Libc Functions:
 Part 2 - Additional Functions:
 
 • ft_substr->: Allocates and returns a substring from a given string.
+
 • ft_strjoin->: Concatenates two strings and returns the result.
+
 • ft_strtrim->: Allocates and returns a copy of a string with specified characters removed from the beginning and end.
+
 • ft_split->: Splits a string into an array of substrings based on a delimiter character.
+
 • ft_itoa->: Converts an integer to a string.
+
 • ft_strmapi->: Applies a function to each character of a string, creating a new string.
+
 • ft_striteri->: Applies a function to each character of a string, modifying it if necessary.
+
 • ft_putchar_fd->: Outputs a character to a specified file descriptor.
+
 • ft_putstr_fd->: Outputs a string to a specified file descriptor.
+
 • ft_putendl_fd->: Outputs a string followed by a newline to a specified file descriptor.
+
 • ft_putnbr_fd->: Outputs an integer to a specified file descriptor.
